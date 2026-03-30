@@ -1,0 +1,5 @@
+{
+  "name": "TradeScope",
+  "description": "An AI-powered chart analysis tool for traders. Upload an image of a financial chart and get instant, intelligent analysis from Gemini to identify patterns, indicators, and potential price movements.",
+  "requestFramePermissions": []
+}
